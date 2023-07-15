@@ -18,17 +18,14 @@ This repository is a place where I'm documenting my skills learned during my way
 
 ## For bug tracking and utilizing Kanban board:
 <div>
-<p align="left"> <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="mark-gradient-blue-jira-software.svg" alt="Jira Software" width="70px" height="70px"/></a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="testrail-logo.png" alt="Jira Software" width="210px" height="70px"/></a>
+<p align="left"> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="mark-gradient-blue-jira-software.svg" alt="Jira Software" width="70px" height="70px"/></a>
+<a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="testrail-logob.png" alt="TestRail" width="269px" height="70px"/></a>
 </p>
 </div>
 
 
-  For programming:
-  - Python
-    - Django
-    - Selenium
-    - Appium
+## For programming:
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="python-logo.svg" alt="Python" width="70" height="70"/></a>
   - VS Code
 
   Additional tools:
