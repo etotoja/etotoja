@@ -4,8 +4,6 @@
 This repository is a place where I'm documenting my skills learned during my way to becoming QA Engineer.
 <br>Here you can find my personal projects and reports.
 
-##
-
 # My tech stack
 <div>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="mark-gradient-blue-jira-software.svg" alt="Jira Software" width="70px" height="70px"/></a>
