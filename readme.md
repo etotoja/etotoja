@@ -31,9 +31,9 @@ This repository is a place where I'm documenting my skills learned during my way
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="img/postman-logo.svg" alt="Postman" width="70" height="70"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="git-logo-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="git-logo-orange.svg">
-  <img alt="Git" src="git-logo-orange" width="70" height="70">
+  <source media="(prefers-color-scheme: dark)" srcset="img/git-logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="img/git-logo-orange.svg">
+  <img alt="Git" src="img/git-logo-orange" width="70" height="70">
 </picture>
 </a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="img/jmeter-logo.svg" alt="JMeter" height="70"/></a>
