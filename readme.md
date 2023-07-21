@@ -2,11 +2,15 @@
 
 
 
-Here you can find my personal projects and reports.
+Here you can find my personal projects and reports. I'm looking for entry level position as QA Engineer / Manual Tester.
 
-  - Currently working on: **ISTQB Certificate** & **AirportCodeDecoder**
+  - Currently working on:
+     - **ISTQB Certificate**
+     - **AirportCodeDecoder**
     
-  - Contect me: albertdrozdowski@gmail.com
+  - Contact me:
+    - albertdrozdowski@gmail.com
+    - [LinkedIn](https://www.linkedin.com/in/albertdr/)
 
 # My tech stack
 <div>
