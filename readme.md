@@ -55,5 +55,5 @@ Here you can find my personal projects and reports. I'm looking for entry level 
   - I was using Sandbox 2 Editor for CryEngine 2: [Re-upload of official documentation](https://www.dj-copniker.de/sandbox2manual/index.html)
 
 - After the mentioned contest, I became an author on LevelDesign.pl blog and was writing articles about Level Design, real time engines and interesting Environments: [web.archive.org](https://web.archive.org/web/20131005043436/http://leveldesign.pl/author/eto/)
-- In the meantime I was still heavily interested in Crytek's technology, moved to newest CryEngine: [cryengine.com](https://www.cryengine.com/)
-- Now, sometimes in my free time, I'm using Unreal Engine just for fun: [unrealengine.com](https://www.unrealengine.com/)
+- In the meantime, I was still heavily interested in Crytek's technology - moved to newest CryEngine: [cryengine.com](https://www.cryengine.com/)
+- Now, sometimes in my free time, I'm using Unreal Engine - just for fun: [unrealengine.com](https://www.unrealengine.com/)
