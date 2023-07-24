@@ -12,7 +12,7 @@ Here you can find my personal projects and reports. I'm looking for entry level 
     - albertdrozdowski@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/albertdr/)
 
-# My tech stack
+# My QA tech stack
 <div>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="img/mark-gradient-blue-jira-software.svg" alt="Jira Software" width="70px" height="70px"/></a>
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="img/mark-gradient-blue-confluence.svg" alt="Confluence" width="70px" height="70px"/></a>
