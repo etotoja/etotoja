@@ -6,7 +6,7 @@ Here you can find my personal projects and reports. I'm looking for entry level 
 
   - Currently working on:
      - **ISTQB Certificate**
-     - **AirportCodeDecoder**
+     - **CurrencyGoldCalc** testing documentatiom
     
   - Contact me:
     - albertdrozdowski@gmail.com
