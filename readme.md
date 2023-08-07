@@ -48,7 +48,7 @@ Here you can find my personal projects and reports. I'm looking for entry level 
     - Daedalus language: [gothic-modding-community.github.io](https://gothic-modding-community.github.io/gmc/zengin/scripts/)
     - Spacer editor: [gothic-modding-community.github.io](https://gothic-modding-community.github.io/gmc/zengin/worlds/)
     - I helped with PL translation of modification [Velaya - Tale of a Warrior](http://velaya.worldofgothic.com/?lang=en) for Gothic 2 NotR: [bractwospolszczenia.pl](https://bractwospolszczenia.pl/showthread.php?tid=234)
-  - I'm an author of tutorials about tools inside of Sandbox 2 (editor for Crytek's CryEngine 2): [themodders.org](https://themodders.org/index.php?board=439.0)
+  - I'm an author of tutorials about tools inside of Sandbox 2 (editor for Crytek's famous video game - Crysis, based on CryEngine2 technology): [themodders.org](https://themodders.org/index.php?board=439.0)
   - Learned a lot about 3D low-poly modeling (Blender, 3Ds Max, Zbrush [for scuplting] ), game modding and real-time rendering
 
 - I took part in Level Design contest organized by LevelDesign.pl blog and Techland with my project: [web.archive.org](https://web.archive.org/web/20131005091826/http://leveldesign.pl/rozstrzygniecie-konkursu-gotowy-na-koniec-swiata/)
