@@ -5,7 +5,7 @@
 Here you can find my personal projects and reports. I'm looking for entry level position as QA Engineer / Manual Tester.
 
   - Currently working on:
-     - **ISTQB Certificate**
+     - **~~ISTQB Certificate~~ passed** :heavy_check_mark:
      - **CurrencyGoldCalc** testing documentatiom
     
   - Contact me:
@@ -43,6 +43,7 @@ Here you can find my personal projects and reports. I'm looking for entry level 
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="img/jmeter-logo.svg" alt="JMeter" height="70"/></a>
 
 # My IT hobby background and achievements
+- In August 2023 I passed ISTQB CTFL exam
 - In the past, I was well known and contributed user of [TheModders.org](http://themodders.org) modding community forum (till ~2013):
   - It started my love to video games modding with Gothic game series and its engine ZenGin:
     - Daedalus language: [gothic-modding-community.github.io](https://gothic-modding-community.github.io/gmc/zengin/scripts/)
